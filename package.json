@@ -1,0 +1,19 @@
+{
+  "name": "lucky-mushroom",
+  "version": "0.1.0",
+  "description": "lucky mushroom",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChengYurou/lucky-mushroom.git"
+  },
+  "author": "yrcheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChengYurou/lucky-mushroom/issues"
+  },
+  "homepage": "https://github.com/ChengYurou/lucky-mushroom#readme"
+}
